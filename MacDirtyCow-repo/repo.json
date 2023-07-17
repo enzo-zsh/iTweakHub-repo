@@ -1,0 +1,107 @@
+{
+    "Info": {
+        "repoName": "Enzo_zsh MacDirtyCow Repo", 
+        "repoDescription": "The ultimate MacDirtyCow repository for iTweakHub",
+        "repoAuthor": "Enzo_zsh",
+        "repoVersion": "v1.0",
+        "repoIcon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/MacDirtyCow-repo/icon.png?raw=true"
+    },
+    "CarPlay": [
+        {
+            "name": "CarMacDirtyCow",
+            "developer": "xqf400",
+            "version": "1.0.1", 
+            "ipa": "https://github.com/xqf400/CarMacDirtyCow/releases/download/v1.0.1/CarMacDirtyCow.ipa",
+            "icon": "https://github.com/xqf400/CarMacDirtyCow/raw/main/Images/icon512.png",
+            "compatibility": "iOS 14.0-16.1.2 ",
+            "description": "Use an image as wallpaper for CarPlay."
+        }    
+    ],
+    "Jailed": [
+        {
+            "name": "Blacklist",
+            "developer": "AppInstalleriOS",
+            "version": "1.0", 
+            "ipa": "https://example.com",
+            "icon": "https://example.com",
+            "compatibility": "14.0 - 15.7.1 and 16 - 16.1.2",
+            "description": "Unblacklist your iDevice using MacDirtyCow"
+        },
+        {
+            "name": "Cowabunga",
+            "developer": "leminlimez",
+            "version": "8.1.3", 
+            "ipa": "https://example.com",
+            "icon": "https://example.com",
+            "compatibility": "14.0 - 15.7.1 and 16 - 16.1.2",
+            "description": "A Jailed toolbox application for iOS using the MacDirtyCow exploit"
+        },
+        {
+            "name": "Cowabunga",
+            "developer": "leminlimez",
+            "version": "8.1.3", 
+            "ipa": "https://example.com",
+            "icon": "https://example.com",
+            "compatibility": "14.0 - 15.7.1 and 16 - 16.1.2",
+            "description": "A Jailed toolbox application for iOS using the MacDirtyCow exploit"
+        }
+    ],
+    "Tweaks": [
+        {
+            "name": "Blacklist",
+            "developer": "AppInstalleriOS",
+            "version": "1.0", 
+            "ipa": "https://example.com",
+            "icon": "https://example.com",
+            "compatibility": "14.0 - 15.7.1 and 16 - 16.1.2",
+            "description": "Unblacklist your iDevice using MacDirtyCow"
+        },
+        {
+            "name": "Cowabunga",
+            "developer": "leminlimez",
+            "version": "8.1.3", 
+            "ipa": "https://example.com",
+            "icon": "https://example.com",
+            "compatibility": "14.0 - 15.7.1 and 16 - 16.1.2",
+            "description": "A Jailed toolbox application for iOS using the MacDirtyCow exploit"
+        },
+        {
+            "name": "Cowabunga",
+            "developer": "leminlimez",
+            "version": "8.1.3", 
+            "ipa": "https://example.com",
+            "icon": "https://example.com",
+            "compatibility": "14.0 - 15.7.1 and 16 - 16.1.2",
+            "description": "A Jailed toolbox application for iOS using the MacDirtyCow exploit"
+        }
+    ],
+    "Utilities": [
+        {
+            "name": "Blacklist",
+            "developer": "AppInstalleriOS",
+            "version": "1.0", 
+            "ipa": "https://example.com",
+            "icon": "https://example.com",
+            "compatibility": "14.0 - 15.7.1 and 16 - 16.1.2",
+            "description": "Unblacklist your iDevice using MacDirtyCow"
+        },
+        {
+            "name": "Cowabunga",
+            "developer": "leminlimez",
+            "version": "8.1.3", 
+            "ipa": "https://example.com",
+            "icon": "https://example.com",
+            "compatibility": "14.0 - 15.7.1 and 16 - 16.1.2",
+            "description": "A Jailed toolbox application for iOS using the MacDirtyCow exploit"
+        },
+        {
+            "name": "Cowabunga",
+            "developer": "leminlimez",
+            "version": "8.1.3", 
+            "ipa": "https://example.com",
+            "icon": "https://example.com",
+            "compatibility": "14.0 - 15.7.1 and 16 - 16.1.2",
+            "description": "A Jailed toolbox application for iOS using the MacDirtyCow exploit"
+        }
+    ]
+}
