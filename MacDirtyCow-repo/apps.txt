@@ -1,0 +1,49 @@
+App list of this repo :
+-----------------------
+
+Apps:                      Category :               Developer :
+-----                      ----------               -----------
+
+- CarMacDirtyCow           CarPlay                  xqf400
+
+- Cowabunga                Jailed                   leminlimez
+
+- Blacklist                Utilities                AppInstalleriOS
+
+- Whitelist                Utilities                BomberFish              
+
+- WDBFontOverwrite         Tweaks                   ginsudev
+
+- FileSwitcherPro          Utilities                straight-tamago
+
+- Filza MacDirtyCow        Utilities                Summit
+
+- Santander                Utilities                haxi0               
+
+- ResSet16                 Tweaks                   Sourcelocation                  
+
+- WDBRemoveThreeAppLimit   Tweaks                   zhuowei
+
+- DynamicCow               Tweaks                   matteozappia
+
+- StatusMagic              Tweaks                   Avangelista
+
+- Dirtycowapp              Tweaks                   mineek
+
+- TrollLock Reborn         Tweaks                   haxi0
+
+- NoCameraSound            Tweaks                   straight-tamago
+
+- Misaka Jailbreak         Jailed                   straight-tamago
+
+- PrefsChanger             Tweaks                   AppInstalleriOS               
+
+- KillMyOTA                Tweaks                   haxi0
+
+- LittleCow                Tweaks                   
+
+- CCEnabler                Tweaks                   AppInstalleriOS
+
+- App Mask                 Tweaks
+
+- Badge Color              Tweaks
