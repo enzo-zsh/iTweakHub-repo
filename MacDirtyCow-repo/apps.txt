@@ -1,24 +1,24 @@
 App list of this repo :
 -----------------------
 
-Apps:                      Category :               Developer :
------                      ----------               -----------
+Apps:                      Category :               Developer :              Done :
+-----                      ----------               -----------              ------
 
-- CarMacDirtyCow           CarPlay                  xqf400
+- CarMacDirtyCow           CarPlay                  xqf400                      X
 
-- Cowabunga                Jailed                   leminlimez
+- Cowabunga                Jailed                   leminlimez                  X
 
-- Blacklist                Utilities                AppInstalleriOS
+- Blacklist                Utilities                AppInstalleriOS             X
 
-- Whitelist                Utilities                BomberFish              
+- Whitelist                Utilities                BomberFish                  X
 
 - WDBFontOverwrite         Tweaks                   ginsudev
 
-- FileSwitcherPro          Utilities                straight-tamago
+- FileSwitcherPro          Utilities                straight-tamago             X
 
-- Filza MacDirtyCow        Utilities                Summit
+- Filza MacDirtyCow        Utilities                Summit                      X
 
-- Santander                Utilities                haxi0               
+- Santander                Utilities                haxi0                       X              
 
 - ResSet16                 Tweaks                   Sourcelocation                  
 
@@ -34,7 +34,7 @@ Apps:                      Category :               Developer :
 
 - NoCameraSound            Tweaks                   straight-tamago
 
-- Misaka Jailbreak         Jailed                   straight-tamago
+- Misaka Jailbreak         Jailed                   straight-tamago             X
 
 - PrefsChanger             Tweaks                   AppInstalleriOS               
 
@@ -43,7 +43,3 @@ Apps:                      Category :               Developer :
 - LittleCow                Tweaks                   
 
 - CCEnabler                Tweaks                   AppInstalleriOS
-
-- App Mask                 Tweaks
-
-- Badge Color              Tweaks
