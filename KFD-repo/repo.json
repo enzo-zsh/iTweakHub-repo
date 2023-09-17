@@ -45,12 +45,12 @@
         },
         {
             "name": "PureKFD",
-            "developer": "Summit",
-            "version": "1.0.1", 
-            "ipa": "https://github.com/dbmz502/Filza_MacDirtyCow/releases/download/1.0.1/Filza_4.0_Patched_15.0-16.1.2.ipa",
-            "icon": "https://cdn.discordapp.com/attachments/782695111997915149/1131941136336965673/AppIcon_filzamdc.png",
-            "compatibility": "iOS 16.2 - 16.6Beta1",
-            "description": "A Jailed toolbox application for iOS using the MacDirtyCow exploit"
+            "developer": "Lrdsnow",
+            "version": "3.4", 
+            "ipa": "https://github.com/Lrdsnow/PureKFD/releases/download/3.4/PureKFD.ipa",
+            "icon": "https://raw.githubusercontent.com/Lrdsnow/PureKFD/main/PureKFD/AppIcon.png",
+            "compatibility": "Arm64e 15.0-16.5 & 16.6b1, Arm64 15.0-15.7.6",
+            "description": "A KFD Package Manager with Picasso & Misaka Support"
         },
         {
             "name": "Picasso",
