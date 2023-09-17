@@ -23,7 +23,7 @@
             "ipa": "https://github.com/leminlimez/Cluckabunga/releases/download/v2.1.1/Chicken.Butt.ipa",
             "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/KFD-repo/icons/cluckabunga.png?raw=true",
             "compatibility": "iOS 16.0 - 16.6Beta1",
-            "description": "KFD Customization Tool for iOS 16.0-16.6b1 "
+            "description": "Cowabunga Tool Ported To KFD Devices"
         },
         {
             "name": "Posi0nKFD",
@@ -54,12 +54,12 @@
         },
         {
             "name": "Picasso",
-            "developer": "haxi0",
-            "version": "1.0", 
-            "ipa": "https://github.com/haxi0/SantanderEscaped/releases/download/1.0/SantanderEscaped_1.0.ipa",
-            "icon": "https://cdn.discordapp.com/attachments/782695111997915149/1131939951454453812/AppIcon_santander.png",
-            "compatibility": "iOS 16.2 - 16.6Beta1",
-            "description": "A new, enhanced File Manager for iOS devices with MDC support"
+            "developer": "sourcelocation",
+            "version": "Beta v2", 
+            "ipa": "https://repo.sourceloc.net/packages/picasso",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/KFD-repo/icons/picasso.png?raw=true",
+            "compatibility": "ALL arm64e iPhones runnning iOS 16.0 - 16.5, 16.6b1",
+            "description": "A Jailed toolbox application for ALL arm64e iPhones runnning iOS 16.0 - 16.5, 16.6b1 using KFD exploit. - Paid $"
         },
         {
             "name": "KFD ResSet16",
@@ -72,15 +72,6 @@
         },
         {
             "name": "PurityKFD",
-            "developer": "haxi0",
-            "version": "1.0", 
-            "ipa": "https://github.com/haxi0/SantanderEscaped/releases/download/1.0/SantanderEscaped_1.0.ipa",
-            "icon": "https://cdn.discordapp.com/attachments/782695111997915149/1131939951454453812/AppIcon_santander.png",
-            "compatibility": "iOS 16.2 - 16.6Beta1",
-            "description": "A new, enhanced File Manager for iOS devices with MDC support"
-        },
-        {
-            "name": "Chicken Butt KFD",
             "developer": "haxi0",
             "version": "1.0", 
             "ipa": "https://github.com/haxi0/SantanderEscaped/releases/download/1.0/SantanderEscaped_1.0.ipa",
