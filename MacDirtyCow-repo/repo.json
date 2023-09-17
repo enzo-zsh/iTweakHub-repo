@@ -32,7 +32,7 @@
             "developer": "straight-tamago",
             "version": "1.8.8 beta", 
             "ipa": "https://cdn.discordapp.com/attachments/1108417213972631635/1131064855500169319/misaka-1.8.8.ipa",
-            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/MacDirtyCow-repo/icons/misaka.png",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/MacDirtyCow-repo/icons/misaka.png?raw=true",
             "compatibility": "iOS 15 and 16 - 16.1.2",
             "description": "A Jailed Package Manager using the MacDirtyCow exploit",
             "sections": "The section of your app (jailbreak, utilities, etc.)"
@@ -92,7 +92,7 @@
             "developer": "straight-tamago",
             "version": "2.4", 
             "ipa": "https://github.com/straight-tamago/FileSwitcherPro/releases/download/2.4/FileSwitcherPro-2.4.ipa",
-            "icon": "https://camo.githubusercontent.com/c9d673236ed8f42f76a64ec6504291b0d156da51c1e6eb7ba253b7084bc6f792/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763517675726844304e304431453471564d4476366f534f42796c31766d4a6e727a5434385126757371703d434155",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/MacDirtyCow-repo/icons/fileswitcherpro.jpeg?raw=true",
             "compatibility": "iOS 15.0 - 16.1.2",
             "description": "FileSwitcherPro is a successor of FileSwitcherX",
             "sections": "Utilities"
