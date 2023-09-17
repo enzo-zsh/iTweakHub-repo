@@ -32,7 +32,7 @@
             "developer": "straight-tamago",
             "version": "1.8.8 beta", 
             "ipa": "https://cdn.discordapp.com/attachments/1108417213972631635/1131064855500169319/misaka-1.8.8.ipa",
-            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/MacDirtyCow-repo/icons/misaka.png?raw=true",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/raw/main/icons/misaka.png",
             "compatibility": "iOS 15 and 16 - 16.1.2",
             "description": "A Jailed Package Manager using the MacDirtyCow exploit",
             "sections": "The section of your app (jailbreak, utilities, etc.)"
@@ -102,7 +102,7 @@
             "developer": "Summit",
             "version": "1.0.1", 
             "ipa": "https://github.com/dbmz502/Filza_MacDirtyCow/releases/download/1.0.1/Filza_4.0_Patched_15.0-16.1.2.ipa",
-            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/MacDirtyCow-repo/icons/filzamdc.png",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/raw/main/icons/filzamdc.png",
             "compatibility": "iOS 15.0 - 16.1.2",
             "description": "A Jailed toolbox application for iOS using the MacDirtyCow exploit",
             "sections": "Utilities"
@@ -112,7 +112,7 @@
             "developer": "haxi0",
             "version": "1.0", 
             "ipa": "https://github.com/haxi0/SantanderEscaped/releases/download/1.0/SantanderEscaped_1.0.ipa",
-            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/MacDirtyCow-repo/icons/santanderescaped.png",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/raw/main/icons/santanderescaped.png",
             "compatibility": "14.0 - 15.7.1 and 16 - 16.1.2",
             "description": "A new, enhanced File Manager for iOS devices with MDC support",
             "sections": "Utilities"
