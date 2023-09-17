@@ -53,15 +53,6 @@
             "description": "A KFD Package Manager with Picasso & Misaka Support"
         },
         {
-            "name": "Picasso (Paid $)",
-            "developer": "sourcelocation",
-            "version": "Beta v2", 
-            "ipa": "https://repo.sourceloc.net/packages/picasso",
-            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/KFD-repo/icons/picasso.png?raw=true",
-            "compatibility": "ALL arm64e iPhones runnning iOS 16.0 - 16.5, 16.6b1",
-            "description": "A Jailed toolbox application for ALL arm64e iPhones runnning iOS 16.0 - 16.5, 16.6b1 using KFD exploit. - Paid $"
-        },
-        {
             "name": "Cardinal",
             "developer": "leminlimez",
             "version": "1.1", 
