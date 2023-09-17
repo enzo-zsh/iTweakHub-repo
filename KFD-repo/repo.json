@@ -62,6 +62,15 @@
             "description": "A Jailed toolbox application for ALL arm64e iPhones runnning iOS 16.0 - 16.5, 16.6b1 using KFD exploit. - Paid $"
         },
         {
+            "name": "Cardinal",
+            "developer": "leminlimez",
+            "version": "1.1", 
+            "ipa": "https://github.com/leminlimez/Cardinal/releases/download/v1.1/Cardinal.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/KFD-repo/icons/cardinal.png?raw=true",
+            "compatibility": "iOS 16.2 - 16.5",
+            "description": "Wallet card customization app for iOS"
+        },
+        {
             "name": "KFD ResSet16",
             "developer": "haxi0",
             "version": "1.0", 
