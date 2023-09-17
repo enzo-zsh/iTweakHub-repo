@@ -32,7 +32,7 @@
             "developer": "straight-tamago",
             "version": "1.8.8 beta", 
             "ipa": "https://cdn.discordapp.com/attachments/1108417213972631635/1131064855500169319/misaka-1.8.8.ipa",
-            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/raw/main/icons/misaka.png",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/MacDirtyCow-repo/icons/misaka.png?raw=true",
             "compatibility": "iOS 15 and 16 - 16.1.2",
             "description": "A Jailed Package Manager using the MacDirtyCow exploit",
             "sections": "The section of your app (jailbreak, utilities, etc.)"
