@@ -50,7 +50,7 @@
         {
             "name": "WDBRemoveThreeAppLimit",
             "developer": "zhuowei",
-            "version": "8.1.3", 
+            "version": "1.0", 
             "ipa": "https://github.com/zhuowei/WDBRemoveThreeAppLimit/releases/download/v1.0/WDBRemoveThreeAppLimit-v1.0.ipa",
             "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/MacDirtyCow-repo/icons/iosblanck.png?raw=true",
             "compatibility": "16 - 16.1.2",
