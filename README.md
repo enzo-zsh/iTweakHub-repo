@@ -8,7 +8,7 @@ A reposiory with KFD (Kernel File Descriptor) iOS applications.
 
 Add to iTweakHub :
 ```
-docker, git, curl
+https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/KFD-repo/repo.json
 ```
 ### MDC repository
 
@@ -16,15 +16,15 @@ A repository with MacDirtyCow iOS applications.
 
 Add to iTweakHub :
 ```
-docker, git, curl
+https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/MacDirtyCow-repo/repo.json
 ```
-### TrollHub repository
+### TrollHub repository (COMING SOON)
 
 A TrollStore repository with iOS applications.
 
 Add to iTweakHub :
 ```
-docker, git, curl
+https://example.com
 ```
 
 
