@@ -1,0 +1,236 @@
+{
+    "Info": {
+        "repoName": "TrollHub repo by enzo_zsh ", 
+        "repoDescription": "The ultimate TrollStore & TrollStore 2 repository for iTweakHub, a reborn of TrollHub app",
+        "repoAuthor": "Enzo_zsh",
+        "repoVersion": "v1.0",
+        "repoIcon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icon.png?raw=true"
+    },
+    "Apps": [
+        {
+            "name": "TrollTools",
+            "developer": "sourcelocation",
+            "version": "3.0", 
+            "ipa": "https://github.com/sourcelocation/TrollTools/releases/download/3.0/TrollTools.tipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/trolltools.png?raw=true",
+            "compatibility": "iOS 15 +",
+            "description": "Revolution iOS 15 customisation"
+        },
+        {
+            "name": "TrollApps",
+            "developer": "haxi0",
+            "version": "1.2", 
+            "ipa": "https://github.com/haxi0/TrollApps/releases/download/1.2/TrollApps-1.2-Final.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/TrollApps.png?raw=true",
+            "compatibility": "iOS & iPadOS 15.0 and later",
+            "description": "App Store, but for TrollStore"
+        },
+        {
+            "name": "TrollBox",
+            "developer": "opa334",
+            "version": "1.1.2", 
+            "ipa": "https://github.com/opa334/TrollNonce/releases/download/1.1.2/TrollNonce.tipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/trollbox.png?raw=true",
+            "compatibility": "iOS 15.0 - 15.5b4",
+            "description": "Enable some tweaks"
+        },
+        {
+            "name": "TrollNonce",
+            "developer": "opa334",
+            "version": "1.1.2", 
+            "ipa": "https://github.com/opa334/TrollNonce/releases/download/1.1.2/TrollNonce.tipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/trollnonce.png?raw=true",
+            "compatibility": "iOS 15.0 - 15.5b4",
+            "description": "Enable some tweaks"
+        },
+        {
+            "name": "Ra1nCloud",
+            "developer": "iarchiveml",
+            "version": "0.4", 
+            "ipa": "https://github.com/iarchiveml/ra1ncloud/releases/download/v0.4/ra1ncloud.tipa",
+            "icon": "insert icon link",
+            "compatibility": "iOS 15.0 - 15.4.1",
+            "description": "Fugu15 is a semi-untethered permasigned jailbreak for iOS 15"
+        },
+        {
+            "name": "u0launcher",
+            "developer": "opa334",
+            "version": "1.0.1", 
+            "ipa": "https://github.com/opa334/u0Launcher/releases/download/1.0.1/u0Launcher.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/u0launcher.png?raw=true",
+            "compatibility": "iOS 15 +",
+            "description": "Launch unc0ver in a way that works when it's installed through TrollStore"
+        },
+        {
+            "name": "AppStore++",
+            "developer": "Unknown",
+            "version": "1.1.1", 
+            "ipa": "https://github.com/sourcelocation/AirTroller/releases/download/1.1.1/AirTroller-1.1.1.tipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/appstore++.png?raw=true",
+            "compatibility": "iOS 14 - 15.7.1",
+            "description": "AirDrop spammer / flooder to troll friends"
+        },
+        {
+            "name": "AirTroller",
+            "developer": "sourcelocation",
+            "version": "1.1.1", 
+            "ipa": "https://github.com/sourcelocation/AirTroller/releases/download/1.1.1/AirTroller-1.1.1.tipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/airtroller.png?raw=true",
+            "compatibility": "iOS 14 - 15.7.1",
+            "description": "AirDrop spammer / flooder to troll friends"
+        },
+        {
+            "name": "ControlCenter++",
+            "developer": "PoisonDragon704",
+            "version": "3.4", 
+            "ipa": "https://github.com/PoisonDragon704/TrollStoreIPAs/raw/main/Control%20Center++.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/iosblanck.png?raw=true",
+            "compatibility": "Arm64e 15.0-16.5 & 16.6b1, Arm64 15.0-15.7.6",
+            "description": "A tweak for the control center"
+        },
+        {
+            "name": "TSSaver",
+            "developer": "Lrdsnow",
+            "version": "3.4", 
+            "ipa": "https://github.com/Lrdsnow/PureKFD/releases/download/3.4/PureKFD.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/tssaver.png?raw=true",
+            "compatibility": "Arm64e 15.0-16.5 & 16.6b1, Arm64 15.0-15.7.6",
+            "description": "A KFD Package Manager with Picasso & Misaka Support"
+        },
+        {
+            "name": "Root FM",
+            "developer": "Lrdsnow",
+            "version": "3.4", 
+            "ipa": "https://github.com/Lrdsnow/PureKFD/releases/download/3.4/PureKFD.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/rootfm.png?raw=true",
+            "compatibility": "Arm64e 15.0-16.5 & 16.6b1, Arm64 15.0-15.7.6",
+            "description": "A KFD Package Manager with Picasso & Misaka Support"
+        },
+        {
+            "name": "WiFi Scanner",
+            "developer": "Lrdsnow",
+            "version": "3.4", 
+            "ipa": "https://github.com/Lrdsnow/PureKFD/releases/download/3.4/PureKFD.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/wifiscanner.png?raw=true",
+            "compatibility": "Arm64e 15.0-16.5 & 16.6b1, Arm64 15.0-15.7.6",
+            "description": "A KFD Package Manager with Picasso & Misaka Support"
+        },
+        {
+            "name": "Jaility",
+            "developer": "Lrdsnow",
+            "version": "3.4", 
+            "ipa": "https://github.com/Lrdsnow/PureKFD/releases/download/3.4/PureKFD.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/Jaility.png?raw=true",
+            "compatibility": "Arm64e 15.0-16.5 & 16.6b1, Arm64 15.0-15.7.6",
+            "description": "A KFD Package Manager with Picasso & Misaka Support"
+        },
+        {
+            "name": "Filza Escaped TrollStore",
+            "developer": "Lrdsnow",
+            "version": "3.4", 
+            "ipa": "https://github.com/Lrdsnow/PureKFD/releases/download/3.4/PureKFD.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/filza.png?raw=true",
+            "compatibility": "Arm64e 15.0-16.5 & 16.6b1, Arm64 15.0-15.7.6",
+            "description": "A KFD Package Manager with Picasso & Misaka Support"
+        },
+        {
+            "name": "SecondHand",
+            "developer": "Lrdsnow",
+            "version": "3.4", 
+            "ipa": "https://github.com/Lrdsnow/PureKFD/releases/download/3.4/PureKFD.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/secondhand.png?raw=true",
+            "compatibility": "Arm64e 15.0-16.5 & 16.6b1, Arm64 15.0-15.7.6",
+            "description": "A KFD Package Manager with Picasso & Misaka Support"
+        },
+        {
+            "name": "Reporizator",
+            "developer": "Lrdsnow",
+            "version": "3.4", 
+            "ipa": "https://github.com/Lrdsnow/PureKFD/releases/download/3.4/PureKFD.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/reporizator.png?raw=true",
+            "compatibility": "Arm64e 15.0-16.5 & 16.6b1, Arm64 15.0-15.7.6",
+            "description": "A KFD Package Manager with Picasso & Misaka Support"
+        },
+        {
+            "name": "Antoine",
+            "developer": "Lrdsnow",
+            "version": "3.4", 
+            "ipa": "https://github.com/Lrdsnow/PureKFD/releases/download/3.4/PureKFD.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/antoine.png?raw=true",
+            "compatibility": "Arm64e 15.0-16.5 & 16.6b1, Arm64 15.0-15.7.6",
+            "description": "A KFD Package Manager with Picasso & Misaka Support"
+        },
+        {
+            "name": "StatusMagic",
+            "developer": "Lrdsnow",
+            "version": "3.4", 
+            "ipa": "https://github.com/Lrdsnow/PureKFD/releases/download/3.4/PureKFD.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/statusmagic.png?raw=true",
+            "compatibility": "Arm64e 15.0-16.5 & 16.6b1, Arm64 15.0-15.7.6",
+            "description": "A KFD Package Manager with Picasso & Misaka Support"
+        },
+        {
+            "name": "Mugunghwa",
+            "developer": "Lrdsnow",
+            "version": "3.4", 
+            "ipa": "https://github.com/Lrdsnow/PureKFD/releases/download/3.4/PureKFD.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/Mugunghwa.png?raw=true",
+            "compatibility": "Arm64e 15.0-16.5 & 16.6b1, Arm64 15.0-15.7.6",
+            "description": "A KFD Package Manager with Picasso & Misaka Support"
+        },
+        {
+            "name": "CarTube",
+            "developer": "Lrdsnow",
+            "version": "3.4", 
+            "ipa": "https://github.com/Lrdsnow/PureKFD/releases/download/3.4/PureKFD.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/cartube.png?raw=true",
+            "compatibility": "Arm64e 15.0-16.5 & 16.6b1, Arm64 15.0-15.7.6",
+            "description": "A KFD Package Manager with Picasso & Misaka Support"
+        },
+        {
+            "name": "Apps Manager",
+            "developer": "leminlimez",
+            "version": "1.1", 
+            "ipa": "https://github.com/leminlimez/Cardinal/releases/download/v1.1/Cardinal.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/appmn.png?raw=true",
+            "compatibility": "iOS 16.2 - 16.5",
+            "description": "Wallet card customization app for iOS"
+        },
+        {
+            "name": "Cardio",
+            "developer": "cisc0disco",
+            "version": "1.1", 
+            "ipa": "https://github.com/cisc0disco/Cardio/releases/download/1.1/Cardio.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/cardio.png?raw=true",
+            "compatibility": "iOS 16.2 - 16.5",
+            "description": "Wallet card customization app for iOS"
+        },
+        {
+            "name": "WallpaperSetter",
+            "developer": "Skittyblock",
+            "version": "1.0.1", 
+            "ipa": "https://github.com/Skittyblock/WallpaperSetter/releases/download/v1.0.1/WallpaperSetter.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/wallpapersetter.png?raw=true",
+            "compatibility": "iOS 16.2 - 16.5",
+            "description": "Wallet card customization app for iOS"
+        },
+        {
+            "name": "Helium",
+            "developer": "leminlimez",
+            "version": "1.0", 
+            "ipa": "https://github.com/leminlimez/Helium/releases/download/v1.0/Helium.tipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/helium.png?raw=true",
+            "compatibility": "iOS 16.2 - 16.5",
+            "description": "Wallet card customization app for iOS"
+        },
+        {
+            "name": "Evyrest",
+            "developer": "sourcelocation",
+            "version": "0.1", 
+            "ipa": "https://github.com/leminlimez/Helium/releases/download/v1.0/Helium.tipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/KFD-repo/icons/cardinal.png?raw=true",
+            "compatibility": "iOS 16.2 - 16.5",
+            "description": "Wallet card customization app for iOS"
+        }
+    ]
+}
