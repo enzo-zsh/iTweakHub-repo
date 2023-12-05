@@ -48,7 +48,7 @@
             "developer": "iarchiveml",
             "version": "0.4", 
             "ipa": "https://github.com/iarchiveml/ra1ncloud/releases/download/v0.4/ra1ncloud.tipa",
-            "icon": "insert icon link",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/raincloud.png?raw=true",
             "compatibility": "iOS 15.0 - 15.4.1",
             "description": "Fugu15 is a semi-untethered permasigned jailbreak for iOS 15"
         },
