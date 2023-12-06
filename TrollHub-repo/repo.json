@@ -104,7 +104,7 @@
             "ipa": "https://github.com/PoisonDragon704/TrollStoreIPAs/blob/main/Root.ipa",
             "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/rootfm.png?raw=true",
             "compatibility": "Arm64e 15.0-16.5 & 16.6b1, Arm64 15.0-15.7.6",
-            "description": "Filza"
+            "description": "A Filza alternative"
         },
         {
             "name": "WiFi Scanner",
