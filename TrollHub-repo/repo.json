@@ -224,6 +224,15 @@
             "description": "Status Bar Widgets for TrollStore iPhones on iOS 15+. Works on Jailbroken devices as well."
         },
         {
+            "name": "TrollInstaller2",
+            "developer": "AppInstalleriOS",
+            "version": "1.0", 
+            "ipa": "https://appinstalleriosgh.github.io/Sign/TrollInstaller2.ipa",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/iosblanck.png?raw=true",
+            "compatibility": "iOS 15 +",
+            "description": "TrollStore2 installer"
+        },
+        {
             "name": "Evyrest",
             "developer": "sourcelocation",
             "version": "0.1", 
