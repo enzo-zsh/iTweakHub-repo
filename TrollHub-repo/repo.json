@@ -63,9 +63,9 @@
         },
         {
             "name": "AppStore++",
-            "developer": "Unknown",
-            "version": "1.1.1", 
-            "ipa": "https://github.com/PoisonDragon704/TrollStoreIPAs/blob/main/AppStore%2B%2B.ipa",
+            "developer": "CokesPokes",
+            "version": "1.0.3-2", 
+            "ipa": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.0.3-2.ipa",
             "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/appstore++.png?raw=true",
             "compatibility": "iOS 14 - 15.7.1",
             "description": "AppStore ++ is a tweak for TrollStore"
@@ -90,7 +90,7 @@
         },
         {
             "name": "TSSaver",
-            "developer": "PoisonDragon704",
+            "developer": "Unknown",
             "version": "1.8.3", 
             "ipa": "https://github.com/PoisonDragon704/TrollStoreIPAs/blob/main/tsssaver.ipa",
             "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/tssaver.png?raw=true",
@@ -104,7 +104,7 @@
             "ipa": "https://github.com/PoisonDragon704/TrollStoreIPAs/blob/main/Root.ipa",
             "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/rootfm.png?raw=true",
             "compatibility": "Arm64e 15.0-16.5 & 16.6b1, Arm64 15.0-15.7.6",
-            "description": "A Filza alternative"
+            "description": "Filza"
         },
         {
             "name": "WiFi Scanner",
@@ -144,7 +144,7 @@
         },
         {
             "name": "Reporizator",
-            "developer": "Lrdsnow",
+            "developer": "haxi0",
             "version": "3.4", 
             "ipa": "https://github.com/haxi0/Reporizator/releases/download/1.1/Reporizator-1.1.ipa",
             "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/reporizator.png?raw=true",
