@@ -21,8 +21,8 @@
             "developer": "TheResonanceTeam",
             "version": "2.1", 
             "ipa": "https://github.com/TheResonanceTeam/TrollApps/releases/download/2.1/org.resonance.store_TrollApps_2.1.ipa",
-            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/TrollApps.png?raw=true",
-            "compatibility": "iOS & iPadOS 15.0 and later",
+            "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/ResonanceStoreIcon.png?raw=true",
+            "compatibility": "iOS 14.0 and up",
             "description": "App Store, but for TrollStore"
         },
         {
