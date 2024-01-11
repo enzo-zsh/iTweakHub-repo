@@ -18,9 +18,9 @@
         },
         {
             "name": "TrollApps",
-            "developer": "haxi0",
-            "version": "1.2", 
-            "ipa": "https://github.com/haxi0/TrollApps/releases/download/1.2/TrollApps-1.2-Final.ipa",
+            "developer": "TheResonanceTeam",
+            "version": "2.1", 
+            "ipa": "https://github.com/TheResonanceTeam/TrollApps/releases/download/2.1/org.resonance.store_TrollApps_2.1.ipa",
             "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/TrollApps.png?raw=true",
             "compatibility": "iOS & iPadOS 15.0 and later",
             "description": "App Store, but for TrollStore"
