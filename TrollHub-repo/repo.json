@@ -136,7 +136,7 @@
         {
             "name": "SecondHand",
             "developer": "leminlimez",
-            "version": "3.4", 
+            "version": "1.3", 
             "ipa": "https://github.com/leminlimez/SecondHand/releases/download/1.3/SecondHand.tipa",
             "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/TrollHub-repo/icons/secondhand.png?raw=true",
             "compatibility": "Arm64e 15.0-16.5 & 16.6b1, Arm64 15.0-15.7.6",
