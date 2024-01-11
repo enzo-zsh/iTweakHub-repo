@@ -3,7 +3,7 @@
         "repoName": "KFD Repo by enzo_zsh ", 
         "repoDescription": "The ultimate KFD (Kernel File Descriptor) repository for iTweakHub",
         "repoAuthor": "Enzo_zsh",
-        "repoVersion": "v1.0",
+        "repoVersion": "v1.1",
         "repoIcon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/KFD-repo/icon.png?raw=true"
     },
     "Apps": [
@@ -11,7 +11,7 @@
             "name": "Misaka KFD",
             "developer": "straight-tamago",
             "version": "2.5.1 Beta", 
-            "ipa": "https://cdn.discordapp.com/attachments/1091743906342895727/1151777100068560976/misaka.ipa",
+            "ipa": "https://github.com/straight-tamago/misaka/releases/download/8.1.2/misaka-v8.1.2.ipa",
             "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/KFD-repo/icons/misaka_kfd_logo.jpg?raw=true",
             "compatibility": "iOS 16.2 - 16.6Beta1",
             "description": "A Jailed Package Manager using the KFD exploit"
@@ -46,9 +46,9 @@
         {
             "name": "PureKFD",
             "developer": "Lrdsnow",
-            "version": "4.1", 
-            "ipa": "https://github.com/Lrdsnow/PureKFD/releases/download/4.1/PureKFD.ipa?raw=true",
-            "icon": "https://raw.githubusercontent.com/Lrdsnow/PureKFD/main/PureKFD/AppIcon.png",
+            "version": "5.0", 
+            "ipa": "https://github.com/PureKFD/PureKFD/releases/download/5.0/purekfd.ipa",
+            "icon": "https://raw.githubusercontent.com/Lrdsnow/PureKFD/main/PureKFD/AppIcon.png?raw=true",
             "compatibility": "Arm64e 15.0-16.5 & 16.6b1, Arm64 15.0-15.7.6",
             "description": "A KFD Package Manager with Picasso & Misaka Support"
         },
