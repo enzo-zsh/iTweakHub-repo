@@ -31,7 +31,7 @@
             "name": "Misaka",
             "developer": "straight-tamago",
             "version": "2.5.1 Beta", 
-            "ipa": "https://cdn.discordapp.com/attachments/1091743906342895727/1151777100068560976/misaka.ipa",
+            "ipa": "https://github.com/straight-tamago/misaka/releases/download/8.1.2/misaka-v8.1.2.ipa",
             "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/MacDirtyCow-repo/icons/misaka.png?raw=true",
             "compatibility": "iOS 15 and 16 - 16.1.2",
             "description": "A Jailed Package Manager using the MacDirtyCow exploit",
@@ -99,7 +99,7 @@
         },
         {
             "name": "Filza MacDirtyCow",
-            "developer": "Summit",
+            "developer": "summit",
             "version": "1.0.1", 
             "ipa": "https://github.com/dbmz502/Filza_MacDirtyCow/releases/download/1.0.1/Filza_4.0_Patched_15.0-16.1.2.ipa",
             "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/MacDirtyCow-repo/icons/filzamdc.png?raw=true",
