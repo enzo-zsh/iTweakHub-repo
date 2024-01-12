@@ -10,8 +10,8 @@
         {
             "name": "Misaka KFD",
             "developer": "straight-tamago",
-            "version": "2.5.1 Beta", 
-            "ipa": "https://github.com/straight-tamago/misaka/releases/download/8.1.2/misaka-v8.1.2.ipa",
+            "version": "8.2.0", 
+            "ipa": "https://github.com/straight-tamago/misaka/releases/download/8.2.0/misaka-v8.2.0.ipa",
             "icon": "https://github.com/Enzo-zsh/iTweakHub-repo/blob/main/KFD-repo/icons/misaka_kfd_logo.jpg?raw=true",
             "compatibility": "iOS 16.2 - 16.6Beta1",
             "description": "A Jailed Package Manager using the KFD exploit"
